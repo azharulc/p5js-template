@@ -1,0 +1,14 @@
+{
+  "name": "p5js-template",
+  "version": "1.0.0",
+  "description": "a template for my p5js projects",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "simple-server . 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "simple-server": "^1.1.1"
+  }
+}
